@@ -1,0 +1,4 @@
+# Private per-user settings; never publish
+local.md
+__pycache__/
+.DS_Store
